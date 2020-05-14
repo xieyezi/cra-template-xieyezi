@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xieyezi/cra-template-xieyezi"
   },
   "keywords": [
-    "template"
+    "template",
+    "react",
+    "create-app",
+    "npx",
+    "typescript"
   ],
   "author": "xieyezi",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/xieyezi/cra-template-xieyezi/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/xieyezi/cra-template-xieyezi/blob/master/README.md",
   "files": [
     "template",
     "template.json"

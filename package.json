@@ -1,6 +1,6 @@
 {
   "name": "cra-template-xieyezi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create-react-app typescript template",
   "main": "template.json",
   "scripts": {

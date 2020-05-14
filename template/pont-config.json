@@ -1,0 +1,11 @@
+{
+  "originUrl": "",
+  "outDir": "./src/services",
+  "templatePath": "./apiTemplate",
+  "prettierConfig": {
+    "jsxSingleQuote": true,
+    "singleQuote": true,
+    "semi": false,
+    "trailingComma": false
+  }
+}

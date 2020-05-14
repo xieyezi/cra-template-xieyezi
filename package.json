@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-xieyezi",
+  "version": "1.0.1",
+  "description": "create-react-app typescript template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "xieyezi",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
